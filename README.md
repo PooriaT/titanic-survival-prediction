@@ -1,4 +1,4 @@
-# titanic-survival-prediction
+# Titanic Survival Prediction
 It is a Random Forest Classification modeling to predict survival on the Titanic
 
 
